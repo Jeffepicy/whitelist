@@ -1,1 +1,4 @@
-[7592963747, 87654321, 11223344]
+{
+    "whitelisted": [7592963747, 87654321, 11223344],
+    "kickFunction": "game:GetService('Players').LocalPlayer:Kick('You are not whitelisted in Cosmic Hub.')"
+}
